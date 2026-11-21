@@ -20,6 +20,13 @@
 
 ## 🧩 Supported Algorithms
 
+> 📚 **Detailed Mathematical & Implementation Docs:** See the [`docs/`](docs/README.md) folder for in-depth guides on every algorithm:
+> - [`docs/01-monoalphabetic-ciphers.md`](docs/01-monoalphabetic-ciphers.md) — Caesar, ROT47, Atbash & Affine
+> - [`docs/02-polyalphabetic-and-digraph-ciphers.md`](docs/02-polyalphabetic-and-digraph-ciphers.md) — Vigenère, Beaufort, Autokey & Playfair
+> - [`docs/03-transposition-and-bitwise-ciphers.md`](docs/03-transposition-and-bitwise-ciphers.md) — Rail Fence & Repeating-Key XOR
+> - [`docs/04-encodings-and-codecs.md`](docs/04-encodings-and-codecs.md) — Base64, Hex & Encoding Layer Chaining
+> - [`docs/05-cryptanalysis-and-auto-cracking.md`](docs/05-cryptanalysis-and-auto-cracking.md) — $\chi^2$ Frequency Analysis, Bigram Scoring & Auto-Crackers
+
 ### ▸ Monoalphabetic Substitution
 | Cipher | CLI Name / Flag | Description | Auto-Crack |
 | :--- | :--- | :--- | :---: |
